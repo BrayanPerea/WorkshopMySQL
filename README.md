@@ -8,4 +8,5 @@ Integrantes:
 * Jeifer A. Jimenez
 
 * Tablas y relaciones:
-   https://ibb.co/tz1wvPn
+  
+![tablas de relaciones](https://github.com/BrayanPerea/WorkshopMySQL/assets/127915270/dbecc71b-bc49-4603-8e2d-b3743d1687e2)
